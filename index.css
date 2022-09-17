@@ -1,0 +1,21 @@
+body{
+    width: 100%;
+    min-height: 100%;
+    box-sizing: border-box;
+    background-color: lightpink;
+}
+header {
+    
+
+}
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+}
+li {
+    display: inline;
+}
+u.{
+    list-style-type: square ;
+}
